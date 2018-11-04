@@ -1,0 +1,20 @@
+﻿
+	/// <summary>
+	/// § Pattern
+	/// 
+	/// § Use
+	/// 
+	/// § Participants
+	/// </summary>
+	public static class Pattern
+	{
+		/// <summary>
+		/// 
+		/// </summary>
+		public static void Compute()
+		{
+			Console.WriteLine("\n\n  Pattern\n");
+
+			
+		}
+	}
